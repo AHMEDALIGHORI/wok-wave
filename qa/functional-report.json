@@ -1,0 +1,449 @@
+{
+  "viewports": [
+    {
+      "name": "desktop",
+      "id": "xiaolongbao",
+      "p": 0,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "0",
+        "frame": "0",
+        "drawMs": "0.100",
+        "cached": "21",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "desktop",
+      "id": "xiaolongbao",
+      "p": 0.5,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "64",
+        "frame": "64",
+        "drawMs": "0.100",
+        "cached": "25",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "desktop",
+      "id": "xiaolongbao",
+      "p": 1,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "127",
+        "frame": "127",
+        "drawMs": "0.000",
+        "cached": "21",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "desktop",
+      "id": "dandannoodles",
+      "p": 0,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "0",
+        "frame": "0",
+        "drawMs": "6.000",
+        "cached": "21",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "desktop",
+      "id": "dandannoodles",
+      "p": 0.5,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "64",
+        "frame": "64",
+        "drawMs": "0.100",
+        "cached": "25",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "desktop",
+      "id": "dandannoodles",
+      "p": 1,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "127",
+        "frame": "127",
+        "drawMs": "0.000",
+        "cached": "21",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "desktop",
+      "id": "pekingduckbao",
+      "p": 0,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "0",
+        "frame": "0",
+        "drawMs": "5.500",
+        "cached": "21",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "desktop",
+      "id": "pekingduckbao",
+      "p": 0.5,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "64",
+        "frame": "64",
+        "drawMs": "0.100",
+        "cached": "25",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "desktop",
+      "id": "pekingduckbao",
+      "p": 1,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "127",
+        "frame": "127",
+        "drawMs": "0.200",
+        "cached": "21",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "desktop",
+      "id": "kungpaochicken",
+      "p": 0,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "0",
+        "frame": "0",
+        "drawMs": "8.800",
+        "cached": "21",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "desktop",
+      "id": "kungpaochicken",
+      "p": 0.5,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "64",
+        "frame": "64",
+        "drawMs": "0.100",
+        "cached": "25",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "desktop",
+      "id": "kungpaochicken",
+      "p": 1,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "127",
+        "frame": "127",
+        "drawMs": "0.000",
+        "cached": "21",
+        "budget": "27",
+        "errors": "0",
+        "pixelWidth": "1440",
+        "pixelHeight": "819"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "xiaolongbao",
+      "p": 0,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "0",
+        "frame": "0",
+        "drawMs": "0.000",
+        "cached": "19",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "xiaolongbao",
+      "p": 0.5,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "48",
+        "frame": "48",
+        "drawMs": "0.100",
+        "cached": "25",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "xiaolongbao",
+      "p": 1,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "95",
+        "frame": "95",
+        "drawMs": "0.100",
+        "cached": "19",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "dandannoodles",
+      "p": 0,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "0",
+        "frame": "0",
+        "drawMs": "4.400",
+        "cached": "19",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "dandannoodles",
+      "p": 0.5,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "48",
+        "frame": "48",
+        "drawMs": "0.000",
+        "cached": "25",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "dandannoodles",
+      "p": 1,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "95",
+        "frame": "95",
+        "drawMs": "0.100",
+        "cached": "19",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "pekingduckbao",
+      "p": 0,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "0",
+        "frame": "0",
+        "drawMs": "4.000",
+        "cached": "19",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "pekingduckbao",
+      "p": 0.5,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "48",
+        "frame": "48",
+        "drawMs": "0.100",
+        "cached": "25",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "pekingduckbao",
+      "p": 1,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "95",
+        "frame": "95",
+        "drawMs": "0.100",
+        "cached": "19",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "kungpaochicken",
+      "p": 0,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "0",
+        "frame": "0",
+        "drawMs": "6.300",
+        "cached": "19",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "kungpaochicken",
+      "p": 0.5,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "48",
+        "frame": "48",
+        "drawMs": "0.100",
+        "cached": "25",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    },
+    {
+      "name": "mobile",
+      "id": "kungpaochicken",
+      "p": 1,
+      "horizontalOverflow": false,
+      "canvas": {
+        "target": "95",
+        "frame": "95",
+        "drawMs": "0.100",
+        "cached": "19",
+        "budget": "31",
+        "errors": "0",
+        "pixelWidth": "390",
+        "pixelHeight": "380"
+      }
+    }
+  ],
+  "checks": [
+    {
+      "name": "desktop",
+      "test": "Dumpling category",
+      "pass": true
+    },
+    {
+      "name": "desktop",
+      "test": "Arrow key changes tab",
+      "pass": true
+    },
+    {
+      "name": "desktop",
+      "test": "Home restores all 14 items",
+      "pass": true
+    },
+    {
+      "name": "mobile",
+      "test": "Dumpling category",
+      "pass": true
+    },
+    {
+      "name": "mobile",
+      "test": "Arrow key changes tab",
+      "pass": true
+    },
+    {
+      "name": "mobile",
+      "test": "Home restores all 14 items",
+      "pass": true
+    },
+    {
+      "name": "mobile",
+      "test": "Mobile menu opens",
+      "pass": true
+    },
+    {
+      "name": "mobile",
+      "test": "Escape closes dialog",
+      "pass": true
+    },
+    {
+      "name": "mobile",
+      "test": "360px no horizontal overflow",
+      "pass": true
+    },
+    {
+      "test": "Reduced motion: no frame requests",
+      "pass": true,
+      "count": 0
+    },
+    {
+      "test": "Reduced motion: no pinned stages",
+      "pass": true
+    },
+    {
+      "test": "JSON-LD valid restaurant and 14 menu entries",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

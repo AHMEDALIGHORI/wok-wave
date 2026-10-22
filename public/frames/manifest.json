@@ -1,0 +1,50 @@
+{
+  "xiaolongbao": {
+    "desktop": {
+      "count": 128,
+      "w": 1920,
+      "h": 1098
+    },
+    "mobile": {
+      "count": 96,
+      "w": 960,
+      "h": 548
+    }
+  },
+  "dandannoodles": {
+    "desktop": {
+      "count": 128,
+      "w": 1920,
+      "h": 1098
+    },
+    "mobile": {
+      "count": 96,
+      "w": 960,
+      "h": 548
+    }
+  },
+  "pekingduckbao": {
+    "desktop": {
+      "count": 128,
+      "w": 1920,
+      "h": 1098
+    },
+    "mobile": {
+      "count": 96,
+      "w": 960,
+      "h": 548
+    }
+  },
+  "kungpaochicken": {
+    "desktop": {
+      "count": 128,
+      "w": 1920,
+      "h": 1098
+    },
+    "mobile": {
+      "count": 96,
+      "w": 960,
+      "h": 548
+    }
+  }
+}

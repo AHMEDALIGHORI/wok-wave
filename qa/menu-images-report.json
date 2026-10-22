@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-22T13:00:25.725Z",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "images": [
+        {
+          "alt": "Xiaolongbao",
+          "src": "/posters/xiaolongbao-mobile.webp",
+          "width": 960,
+          "height": 548
+        },
+        {
+          "alt": "Dan Dan Noodles",
+          "src": "/posters/dandannoodles-mobile.webp",
+          "width": 960,
+          "height": 548
+        },
+        {
+          "alt": "Peking Duck Bao",
+          "src": "/posters/pekingduckbao-mobile.webp",
+          "width": 960,
+          "height": 548
+        },
+        {
+          "alt": "Kung Pao Chicken",
+          "src": "/posters/kungpaochicken-mobile.webp",
+          "width": 960,
+          "height": 548
+        },
+        {
+          "alt": "Mapo Tofu",
+          "src": "/menu/mapo.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Crispy Chili Beef",
+          "src": "/menu/crispy-beef.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Scallion Pancake",
+          "src": "/menu/scallion-pancake.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Egg Fried Rice",
+          "src": "/menu/egg-rice.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Spicy Red Oil Wontons",
+          "src": "/menu/wontons.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Salt & Pepper Squid",
+          "src": "/menu/squid.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Hot & Sour Soup",
+          "src": "/menu/soup.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Mango Pomelo Sago",
+          "src": "/menu/sago.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Brown Sugar Boba",
+          "src": "/menu/boba.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Sesame Balls",
+          "src": "/menu/sesame-balls.webp",
+          "width": 960,
+          "height": 640
+        }
+      ],
+      "categories": [
+        {
+          "label": "All the good stuff14",
+          "count": 14
+        },
+        {
+          "label": "Dumplings3",
+          "count": 3
+        },
+        {
+          "label": "Noodles & Rice2",
+          "count": 2
+        },
+        {
+          "label": "Wok3",
+          "count": 3
+        },
+        {
+          "label": "Sides3",
+          "count": 3
+        },
+        {
+          "label": "Sweet & Sips3",
+          "count": 3
+        }
+      ],
+      "horizontalOverflow": false
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "images": [
+        {
+          "alt": "Xiaolongbao",
+          "src": "/posters/xiaolongbao-mobile.webp",
+          "width": 960,
+          "height": 548
+        },
+        {
+          "alt": "Dan Dan Noodles",
+          "src": "/posters/dandannoodles-mobile.webp",
+          "width": 960,
+          "height": 548
+        },
+        {
+          "alt": "Peking Duck Bao",
+          "src": "/posters/pekingduckbao-mobile.webp",
+          "width": 960,
+          "height": 548
+        },
+        {
+          "alt": "Kung Pao Chicken",
+          "src": "/posters/kungpaochicken-mobile.webp",
+          "width": 960,
+          "height": 548
+        },
+        {
+          "alt": "Mapo Tofu",
+          "src": "/menu/mapo.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Crispy Chili Beef",
+          "src": "/menu/crispy-beef.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Scallion Pancake",
+          "src": "/menu/scallion-pancake.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Egg Fried Rice",
+          "src": "/menu/egg-rice.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Spicy Red Oil Wontons",
+          "src": "/menu/wontons.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Salt & Pepper Squid",
+          "src": "/menu/squid.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Hot & Sour Soup",
+          "src": "/menu/soup.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Mango Pomelo Sago",
+          "src": "/menu/sago.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Brown Sugar Boba",
+          "src": "/menu/boba.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "alt": "Sesame Balls",
+          "src": "/menu/sesame-balls.webp",
+          "width": 960,
+          "height": 640
+        }
+      ],
+      "categories": [
+        {
+          "label": "All the good stuff14",
+          "count": 14
+        },
+        {
+          "label": "Dumplings3",
+          "count": 3
+        },
+        {
+          "label": "Noodles & Rice2",
+          "count": 2
+        },
+        {
+          "label": "Wok3",
+          "count": 3
+        },
+        {
+          "label": "Sides3",
+          "count": 3
+        },
+        {
+          "label": "Sweet & Sips3",
+          "count": 3
+        }
+      ],
+      "horizontalOverflow": false
+    }
+  ],
+  "errors": []
+}

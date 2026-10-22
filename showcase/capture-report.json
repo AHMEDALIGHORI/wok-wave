@@ -1,0 +1,70 @@
+{
+  "source": "http://localhost:3000",
+  "method": "Real-time Chrome CDP screencast. Original capture timestamps preserved; encoded to constant 30 fps for editing. No synthetic food frames or performance claims.",
+  "clips": [
+    {
+      "name": "xiaolongbao",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "seconds": 7.048,
+      "frames": 309
+    },
+    {
+      "name": "dandannoodles",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "seconds": 7.039,
+      "frames": 253
+    },
+    {
+      "name": "pekingduckbao",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "seconds": 7.031,
+      "frames": 241
+    },
+    {
+      "name": "kungpaochicken",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "seconds": 7.044,
+      "frames": 241
+    },
+    {
+      "name": "menu",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "seconds": 7.442,
+      "frames": 232
+    },
+    {
+      "name": "mobile-dish",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "seconds": 7.834,
+      "frames": 400
+    },
+    {
+      "name": "mobile-menu",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "seconds": 7.857,
+      "frames": 346
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,20 @@
+{
+  "source": "http://localhost:3000",
+  "method": "Settled scroll-position screenshots, encoded at 10 fps; not a performance benchmark.",
+  "animations": [
+    {
+      "name": "desktop",
+      "frames": 136,
+      "fps": 10,
+      "seconds": 13.6,
+      "width": 800
+    },
+    {
+      "name": "mobile",
+      "frames": 46,
+      "fps": 10,
+      "seconds": 4.6,
+      "width": 312
+    }
+  ]
+}

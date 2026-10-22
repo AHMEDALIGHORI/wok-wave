@@ -1,0 +1,29 @@
+{
+  "checks": [
+    {
+      "test": "Desktop scrub at DPR 3",
+      "pass": true
+    },
+    {
+      "test": "Recreate frame cache after far-offscreen disposal",
+      "pass": true
+    },
+    {
+      "test": "Resize across breakpoint to mobile and scrub both endpoints",
+      "pass": true
+    },
+    {
+      "test": "Resize across breakpoint to desktop and scrub both endpoints",
+      "pass": true
+    },
+    {
+      "test": "Live reduced-motion change removes canvas",
+      "pass": true
+    },
+    {
+      "test": "Re-enable motion with fresh transferable canvas",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,66 @@
+{
+  "xiaolongbao": {
+    "desktop": {
+      "bytes": 5387048,
+      "mb": 5.387,
+      "fps": 16,
+      "quality": 78
+    },
+    "mobile": {
+      "bytes": 1671696,
+      "mb": 1.672,
+      "fps": 12,
+      "quality": 78
+    },
+    "backdropStart": "#af323d",
+    "backdropEnd": "#680915"
+  },
+  "dandannoodles": {
+    "desktop": {
+      "bytes": 4505474,
+      "mb": 4.505,
+      "fps": 16,
+      "quality": 78
+    },
+    "mobile": {
+      "bytes": 1499300,
+      "mb": 1.499,
+      "fps": 12,
+      "quality": 78
+    },
+    "backdropStart": "#fde468",
+    "backdropEnd": "#f7d247"
+  },
+  "pekingduckbao": {
+    "desktop": {
+      "bytes": 6633768,
+      "mb": 6.634,
+      "fps": 16,
+      "quality": 78
+    },
+    "mobile": {
+      "bytes": 2171152,
+      "mb": 2.171,
+      "fps": 12,
+      "quality": 78
+    },
+    "backdropStart": "#f39cbb",
+    "backdropEnd": "#ed5c96"
+  },
+  "kungpaochicken": {
+    "desktop": {
+      "bytes": 5867670,
+      "mb": 5.868,
+      "fps": 16,
+      "quality": 78
+    },
+    "mobile": {
+      "bytes": 1931308,
+      "mb": 1.931,
+      "fps": 12,
+      "quality": 78
+    },
+    "backdropStart": "#f7a145",
+    "backdropEnd": "#bf4b05"
+  }
+}

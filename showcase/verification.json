@@ -1,0 +1,9 @@
+{
+  "file": "showcase/WOK-WAVE-website-showcase-1080p.mp4",
+  "bytes": 23363932,
+  "fullDecodePassed": true,
+  "details": [
+    "  Duration: 00:00:48.87, start: 0.000000, bitrate: 3824 kb/s\r",
+    "  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 3821 kb/s, 30 fps, 30 tbr, 15360 tbn (default)\r"
+  ]
+}

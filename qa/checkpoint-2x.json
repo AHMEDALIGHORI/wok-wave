@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-21T08:19:35.467Z",
+  "method": "Production build, Chrome headless, CDP 2x CPU throttle, 8-second continuous forward scroll, RAF intervals measured after anchor-frame decode. Local lab results, not a device guarantee.",
+  "runs": [
+    {
+      "name": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "cpuThrottle": 2,
+      "fps": 59.62627547838236,
+      "medianMs": 16.699999999999818,
+      "p95Ms": 16.800000000000182,
+      "p99Ms": 16.90000000000009,
+      "over25ms": 1,
+      "totalFrames": 478,
+      "maxCached": 25,
+      "p95DrawMs": 0.2,
+      "longTasks": [
+        59
+      ],
+      "checks": {
+        "horizontalOverflow": false,
+        "canvas": {
+          "target": "64",
+          "frame": "64",
+          "drawMs": "0.000",
+          "cached": "25",
+          "budget": "27",
+          "errors": "0"
+        },
+        "headingOpacity": "0.107143"
+      },
+      "errors": []
+    },
+    {
+      "name": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "cpuThrottle": 2,
+      "fps": 59.87499999999997,
+      "medianMs": 16.699999999999818,
+      "p95Ms": 16.800000000000182,
+      "p99Ms": 16.900000000000546,
+      "over25ms": 1,
+      "totalFrames": 479,
+      "maxCached": 25,
+      "p95DrawMs": 0.2,
+      "longTasks": [],
+      "checks": {
+        "horizontalOverflow": false,
+        "canvas": {
+          "target": "48",
+          "frame": "48",
+          "drawMs": "0.100",
+          "cached": "25",
+          "budget": "31",
+          "errors": "0"
+        },
+        "headingOpacity": "0.107143"
+      },
+      "errors": []
+    }
+  ],
+  "targetFps": 60,
+  "passed": true
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">WOK WAVE — Big flavour. Bigger motion.</title>
+  <desc id="desc">A red, cream and lime graphic cover for a scroll-driven Chinese street food website template.</desc>
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff6e5" stroke-opacity=".1"/></pattern></defs>
+  <rect width="1280" height="420" rx="24" fill="#e10f2b"/>
+  <rect width="1280" height="420" rx="24" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#fff6e5">
+    <text x="54" y="52" font-size="15" font-weight="700" letter-spacing="4">CHINESE STREET FOOD · A NEXT.JS TEMPLATE</text>
+    <text x="46" y="211" font-size="158" font-weight="900" letter-spacing="-11">WOK WAVE</text>
+    <text x="56" y="270" font-size="32" font-weight="700">Big flavour. Bigger motion.</text>
+    <text x="56" y="307" font-size="19">Four dishes. One scroll. A whole lot of personality.</text>
+  </g>
+  <g transform="translate(1100 173) rotate(12)">
+    <circle r="105" fill="#111"/>
+    <circle cy="-6" r="103" fill="#b6ff3b" stroke="#111" stroke-width="4"/>
+    <g fill="#111" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-weight="900">
+      <text y="-47" font-size="17" letter-spacing="2">SCROLL TO</text>
+      <text y="-9" font-size="39">SPILL</text>
+      <path d="M0 11V58M-22 36 0 58 22 36" fill="none" stroke="#111" stroke-width="9" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <path d="M56 345H1224" stroke="#fff6e5" stroke-opacity=".4"/>
+  <g fill="#fff6e5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">
+    <text x="56" y="382">NEXT.JS 16</text><text x="245" y="382">REACT 19</text><text x="420" y="382">MOTION + LENIS</text><text x="686" y="382">TAILWIND CSS 4</text><text x="1007" y="382">MADE TO REBRAND ↗</text>
+  </g>
+</svg>
